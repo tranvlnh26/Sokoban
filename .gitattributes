@@ -1,0 +1,5 @@
+# Khai báo cho Git biết các file này sẽ dùng công cụ merge riêng của Unity
+*.unity merge=unityyamlmerge
+*.prefab merge=unityyamlmerge
+*.asset merge=unityyamlmerge
+*.meta merge=unityyamlmerge
